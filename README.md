@@ -18,7 +18,7 @@ The data-set can be found in folder "example_dataset".
 Since two scripts are referring to external data (example data and an external function), it is not recommended to conduct the scripts via the source-command.
 Please check the comments carefully and load the respective data or function if necessary.
 
-Note: We do not provide any example-data for logistic regression since this is a very straight forward analysis.
+Note: We do not provide any example-data for logistic regression since this is a very straight-forward analysis.
 
 ## Code comments
 We extensively commented our code-blocks, to follow our analyses.
